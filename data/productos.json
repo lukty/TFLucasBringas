@@ -1,0 +1,65 @@
+[
+	{
+		"id": 1,
+		"marca": "Pizza Especial",
+		"imagen": "img/Pizza1.jpg",
+		"precio": "750",
+		"detalles": ["Jamon", "Queso Muzzarella", "Morrón"]
+	},
+	{
+		"id": 2,
+		"marca": "Pizza Cuatro Quesos",
+		"imagen": "img/Pizza2.jpg",
+		"precio": "750",
+		"detalles": ["Muzarrella", "Queso Azul", "Parmezano y Ricota"]
+	},
+	{
+		"id": 3,
+		"marca": "Pizza Mixta",
+		"imagen": "img/Pizza3.jpg",
+		"precio": "980",
+		"detalles": ["Jamon", "Muzzarella", "Carne Picada"]
+	},
+	{
+		"id": 4,
+		"marca": "Hamburguesa Completa",
+		"imagen": "img/hambr1.jpg",
+		"precio": "1200",
+		"detalles": ["Tomate", "Lechuga", "Queso Cheddar"]
+	},
+	{
+		"id": 5,
+		"marca": "Hamburguesa Hot",
+		"imagen": "img/hambr2.jpg",
+		"precio": "999",
+		"detalles": ["Tomate", "Queso", "Fritas"]
+	},
+	{
+		"id": 6,
+		"marca": "Hamburguesa de la Casa",
+		"imagen": "img/hambr3.jpg",
+		"precio": "1599",
+		"detalles": ["Lechuga", "Queso de Cabra", "Fritas"]
+	},
+	{
+		"id": 7,
+		"marca": "Empanadas de Jamon y Queso",
+		"imagen": "img/empa1.png",
+		"precio": "80",
+		"detalles": ["Jamón", "Queso", "Huevo"]
+	},
+	{
+		"id": 8,
+		"marca": "Empanadas de Pollo",
+		"imagen": "img/empa2.jpg",
+		"precio": "86",
+		"detalles": ["Pollo", "Huevo", "Morrón"]
+	},
+	{
+		"id": 9,
+		"marca": "Empanadas de Carne",
+		"imagen": "img/empa3.png",
+		"precio": "97",
+		"detalles": ["Carne especial", "Huevo", "Cebolla y morrón"]
+	}
+]
